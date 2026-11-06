@@ -1,0 +1,14 @@
+# 교수님 개인 진도 (각자 컴퓨터에만)
+my-progress.md
+
+# 개인 클로드 코드 설정
+.claude/settings.local.json
+
+# 기존 튜토리얼 원고 (강사 보관용)
+/*.txt
+
+# 기타
+__pycache__/
+.DS_Store
+Thumbs.db
+practice/_old/
