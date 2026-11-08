@@ -12,11 +12,11 @@ disable-model-invocation: true
 번호와 폴더의 짝:
 - 2 → `practice/02-first-file`
 - 3 → `practice/03-folder-cleanup`
-- 4, 7 → `practice/04-submissions`
+- 4, 7, 30(30분 핵심 코스) → `practice/04-submissions`
 - 5 → `practice/05-notices`
 - 8 → `practice/08-my-automation`
 - bonus → `practice/bonus-1-meetings`, `practice/bonus-2-faq`, `practice/bonus-4-literature`
-- 6 → 초기화할 재료 없음. 만든 스킬을 지우고 싶으면 `.claude/skills/weekly-notice` 폴더를 옮기면 된다고 안내.
+- 6 → 초기화할 재료 없음. 만든 스킬을 지우고 싶으면 `.claude/skills/weekly-notice` 폴더를 옮기면 된다고 안내. (30분 코스에서 만든 스킬은 `.claude/skills/submission-check`)
 
 순서:
 1. 무엇을 할지 먼저 말씀드립니다: "지금 폴더는 지우지 않고 `practice/_old/폴더이름-날짜시각` 으로 옮겨 두고, 원본(`tutor/starter/`)을 새로 복사합니다."
