@@ -2,7 +2,7 @@
 
 | 실습 | 안내서 | 제목 | 시간 | 새로 익히는 클로드 코드 기능 | 실습 폴더 |
 |---|---|---|---|---|---|
-| ★ | `tutor/labs/express30.md` | 30분 핵심 코스 | 30분 | 작업실 확인, 작업 모드, 백업·계획·실행·검증, 허락 화면, 스킬 만들기 | `practice/04-submissions` |
+| ★ | `tutor/labs/express30.md` | 30분 핵심 코스 — 내 전공 자료로 수업 자료까지 | 30분 | 기본 명령, 가상 자료 만들기, 정리표, 수업 자료(HTML 슬라이드), 스킬, 스킬 묶어 자동화 | `practice/express30` |
 | 0 | `tutor/labs/lab00-orientation.md` | 오리엔테이션 | 5분 | 대화 입력, `/` 명령, 실습 도우미 사용법 | (루트) |
 | 1 | `tutor/labs/lab01-workspace.md` | 작업실 확인 | 10분 | 작업 폴더 개념, `!` 명령, Esc, Ctrl+C, `/clear` | (루트) |
 | 2 | `tutor/labs/lab02-first-file.md` | 첫 파일 | 15분 | 허락 화면, `@파일`, 거절, `/rewind`, Shift+Tab 모드 | `practice/02-first-file` |
